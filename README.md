@@ -23,7 +23,8 @@ Now you can access "https://localhost:7154/swagger/index.html"
 ## Next steps
 
 - Add more unit test to ensure the code is working as expected in all scenarios
-- Add cache for retrieve information faster and create redundancy
+- Add cache for retrieve information faster
+- Add redundancy in database
 - Add more integrated tests to ensure the code is working as expected in all scenarios
 - Create a better documentation for the project
 - Create a builder (Designer pattern) in domain layer to ensure that entities was created with all required properties
